@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Blaze Box",
+        "price": 5.50,
+        "imageUrl": "../images/basic-blaze-box.jpeg",
+        "description": "A basic selection of Weasleys’ Wild-Fire Whiz-Bangs"
+    },
+    {
+        "id": 2,
+        "name": "Love Potion",
+        "price": 8.0,
+        "imageUrl": "../images/love-potion.jpg",
+        "description": "This powerful brew doesn’t need much of an explanation. Give it to the person you desire and see the magic happen yourself."
+    },
+    {
+        "id": 3,
+        "name": "Canary Creams",
+        "price": 7.0,
+        "imageUrl": "../images/canary-creams.jpg",
+        "description": "Have the appearance and taste of ordinary custard creams, but transfigure the eater into a huge canary. The effect is short-lived, however, since the person moults a few moments later and becomes his or her normal self."
+    },
+    {
+        "id": 4,
+        "name": "Decoy Detonators",
+        "price": 4.5,
+        "imageUrl": "../images/decoy-detonator.jpg",
+        "description": "Weird-looking black horn-type objects that scurry out of sight and make a loud noise to create a diversion"
+    },
+    {
+        "id": 5,
+        "name": "Extendable Ears",
+        "price": 11.99,
+        "imageUrl": "../images/extendable-ear.jpg",
+        "description": "Has the appearance of a piece of flesh-coloured string; one end is attached to the listener’s ear, the other is placed near what the listener wants to overhear. "
+    },
+    {
+        "id": 6,
+        "name": "Fainting Fancy",
+        "price": 5.49,
+        "imageUrl": "../images/fainting-fancy.jpg",
+        "description": "One of the range of sweets found in a Skiving Snackbox, this causes the eater to faint."
+    },
+    {
+        "id": 7,
+        "name": "Instant Darkness Powder",
+        "price": 6.89,
+        "imageUrl": "../images/instant-darkness.jpg",
+        "description": "This darkness powder creates darkness when used, allowing the user to escape."
+    },
+    {
+        "id": 8,
+        "name": "Nosebleed Nougat",
+        "price": 7.99,
+        "imageUrl": "../images/nosebleed-nougat.jpg",
+        "description": "One of the range of sweets found in a Skiving Snackbox. Each end of the sweet is colour-coded, where one end causes the eater to develop a serious nosebleed, while the other end cancels the effect."
+    },
+    {
+        "id": 9,
+        "name": "Wildfire Whiz-Bangs",
+        "price": 9.99,
+        "imageUrl": "../images/wildfire.jpg",
+        "description": "Wizarding fireworks creating various visual effects, carrying special enchantments that result in variations if two fireworks collide with one another or if various spells are deployed to try to get rid of the fireworks."
+    }
+    
+]
